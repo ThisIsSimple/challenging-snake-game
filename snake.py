@@ -1,8 +1,5 @@
 import random
-from time import sleep
-
 import pygame
-
 from constants import *
 from vec import Vec
 
